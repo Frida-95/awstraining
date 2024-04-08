@@ -1,2 +1,2 @@
 # AWS DevOps training
-# this is frida's repo 
+# this is frida's revised repo 
